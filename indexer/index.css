@@ -17,7 +17,9 @@ html{
     text-align: center;
     background-color: rgb(220, 241, 142);
 }
-.entBtn{
+.entBtn{ 
+    margin-top:2em ;
+    margin-left: 6.9em;
     font-size: 3em;
     color: rgb(91, 11, 11);
     background-color: rgb(132, 195, 55);
@@ -28,6 +30,7 @@ html{
 
 }
 .entBtn:active {
+  
     width:5.5em;
     height:3.5em;
 }
@@ -35,7 +38,7 @@ html{
     border-radius: .35em;
     margin: auto;
     background-color: rgb(195, 231, 88);
-    width: 80em;
+    width: 55em;
     height: 60em;
 }
 .conTitle{
@@ -44,6 +47,7 @@ html{
     border-bottom:.2em solid #571fa13d;
     text-align: center;
     font: 4.5em verdana ;
+    overflow: hidden;
     height:1.2em;
     background-color: aquamarine;
 }
