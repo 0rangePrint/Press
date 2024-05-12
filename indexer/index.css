@@ -8,14 +8,16 @@ html{
     border-right: none;
     border-radius:.25em;
     margin-top: 2em;
-    margin-left: 7.5em;
-    font-size: 1.7em;
+    margin-left: 4.5em;
+    margin-right: 1.4em;
+    font-size:4em;
     width: 5em;
     height: 2em;
     text-align: center;
     background-color: rgb(220, 241, 142);
 }
 .entBtn{
+    font-size: 3em;
     color: rgb(91, 11, 11);
     background-color: rgb(132, 195, 55);
     height: 3em;
@@ -32,15 +34,15 @@ html{
     border-radius: .35em;
     margin: auto;
     background-color: rgb(195, 231, 88);
-    width: 40em;
-    height: 30em;
+    width: 80em;
+    height: 60em;
 }
 .conTitle{
     color: rgba(191, 100, 44, 0.83);
     border-radius: .5em;
     border-bottom:.2em solid #571fa13d;
     text-align: center;
-    font: 2.5em verdana ;
+    font: 4.5em verdana ;
     height:1.2em;
     background-color: aquamarine;
 }
