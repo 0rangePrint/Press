@@ -26,7 +26,10 @@ else if(entName=='Ed Sheeran'){
 }
 else if(entName=='Alina'){
     alert('10/10')
-} else {
+}
+else if(entName=='Russel'){
+    alert('6.5/10')
+}else {
     alert('Unknown, Names must start with Uppercases!');
 }
 }
