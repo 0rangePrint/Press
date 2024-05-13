@@ -1,6 +1,6 @@
 function entername() {
 var entName = document.getElementById('entName').value;
-if (entName=='jake' ){
+if (entName=='Jake' ){
     alert('7-10');
 }
 else if (entName==''){
