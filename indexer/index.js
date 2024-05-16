@@ -1,5 +1,5 @@
-function entername() {
-var entName = document.getElementById('entName').value;
+function entName() {
+let entName = document.getElementById('nameBox').value;
 if (entName=='Jake' ){
     alert('7-10');
 }
@@ -26,10 +26,10 @@ else if(entName=='Ed Sheeran'){
 }
 else if(entName=='Alina'){
     alert('10/10')
-}
-else if(entName=='Russel'){
-    alert('6.5/10')
 }else {
+    
     alert('Unknown, Names must start with Uppercases!');
 }
+
+
 }
